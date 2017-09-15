@@ -14,11 +14,11 @@ Examples in Ruby on Rails calling DirectKit JSON2
 
 * Controller: _scenario_controller.rb_
 ```ruby
-DIRECKIT_URL 	= "https://sandbox-api.lemonway.fr/mb/{#yourCompany}/dev/directkitjson2/Service.asmx"
-LOGIN 			= "society"
-PASSWORD 		= "123456"
-LANGUAGE 		= "en"
-IS_SANDBOX		= true
+DIRECKIT_URL = "https://sandbox-api.lemonway.fr/mb/{#yourCompany}/dev/directkitjson2/Service.asmx"
+LOGIN = "society"
+PASSWORD = "123456"
+LANGUAGE = "en"
+IS_SANDBOX = true
 ```
 * View: _index.html.erb_
 
