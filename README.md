@@ -1,3 +1,5 @@
+⚠️WARNING: This client is deprecated⚠️ 
+
 # ruby-client-direckit-json2
 Examples in Ruby on Rails calling DirectKit JSON2
 
